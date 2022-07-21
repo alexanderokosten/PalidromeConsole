@@ -12,7 +12,7 @@ namespace ConsoleApp5
             
 
             Console.WriteLine(GetPolindromMethod("Муза, ранясь шилом опыта, ты помолишься на разум"));
-            Console.WriteLine(GetPolindromMethod("Муза, ранясь шилом опыта, ты помолишься на разум"));
+
             Console.WriteLine(GetPolindromMethod("А роза упала на лапу Азора"));
             Console.WriteLine(GetPolindromMethod("Отрицательный текст"));
             Console.WriteLine(GetPolindromMethod("qwert"));
